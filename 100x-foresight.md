@@ -2,6 +2,8 @@
 
 *Why generative AI makes it feasible to run not 3–5 scenarios per project, but hundreds — and what that unlocks.*
 
+![Many stakeholder domains (left) feed scenario sets into a strategic digital twin (centre), which surfaces a narrow set of the most critical impacts, opportunities, and vulnerabilities (right).](100x-foresight-diagram.png)
+
 Current foresight-backgrounded scenario work usually proceeds on creating 2–5 scenarios per scenario project. This approach is largely grounded in history, and is a reasonable approach from the existing conditions the field has operated in since its inception, roughly 50 years ago at Shell.
 
 Foresight as it stands is manual, expert-heavy work that has seen very few changes from traditional ML/AI approaches, especially for the Shell-style scenario work. This largely stems from the limitations of traditional ML/AI and statistical methods, which have great value in the field of forecasting, where they excel at making forecasts about how variations in current conditions could materialize in the coming years. However, the weakness of this approach is that it's largely unable to account for significant changes to the status quo, or large variances in material conditions. For example, things like pandemics, rapid technological developments, unforeseen global conflicts or geopolitical changes.
@@ -20,6 +22,6 @@ However, with Gen AI's maturity, this equation is finally changing. While Gen AI
 
 This then, means that scaling scenarios up from the current 3-5, to something that could be called 100x foresight, is suddenly quite feasible. A process of first identifying and mapping each significant stakeholder party for an organization (a number likely between 10 – 100), could produce a set of scenarios for each stakeholder domain, and construct super-scenarios. These could be modeled both at the super-scenario level, and the level of individual stakeholder scenarios, against an organization's strategic digital twin, to identify a narrow set of the most critical impacts, the strongest business opportunities, and the most significant vulnerabilities, with full traceability chains.
 
-![Many stakeholder domains (left) feed scenario sets into a strategic digital twin (centre), which surfaces a narrow set of the most critical impacts, opportunities, and vulnerabilities (right).](100x-foresight-diagram.png)
+
 
 The beauty of the model is that it actually scales quite seamlessly from strong fundamentals. The difficulty of the model is in fact getting the core process right, but from there it moves quite seamlessly to 10, 100 or 500 scenario sets constructed, with the only real scalars being inference costs and the bandwidth for analyzing the produced information. The latter though, mostly requires foresight to solve one of its longer-standing issues, of the current atomistic unit being significantly too large in its bandwidth requirements, and producing bite-sized chunks that organization leaders can more effectively grapple with.
