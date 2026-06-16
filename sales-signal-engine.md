@@ -1,6 +1,6 @@
 # Sales Signal Engine: From AI Use-Case Discovery To A Production-Shaped Signal Intelligence Pipeline
 
-**Timeline:** The core build, evaluation, cost-optimization, and productionization work ran from 29 April to late May 2026. Follow-on operations, document-lane work, storage hardening, and pause/resume controls continued into early June.
+**Timeline:** The core build, evaluation, cost-optimization, and productionization work ran from 29 April to late May 2026.
 
 **Status:** Capful-owned internal IP. This case study describes the project architecture, development process, and lessons learned without publishing proprietary code, prompts, source lists, or business logic.
 
