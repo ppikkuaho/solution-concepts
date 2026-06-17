@@ -5,6 +5,9 @@
 **Type:** Solution concept  
 **Status:** The concept is described at the level of solution architecture, user experience, and method. Implementation details and IP-shaped details are omitted.
 
+<img width="720" height="208" alt="image" src="https://github.com/user-attachments/assets/86e776f1-afeb-40ef-8852-f97553337178" />
+
+
 ## Concept
 
 Horizon Canvas is an AI x VR-augmented foresight concept for executive decision-making.
