@@ -3,7 +3,7 @@
 ## AI x VR-Augmented Foresight For Strategic Decision-Making
 
 **Type:** Solution concept  
-**Status:** Public-safe portfolio writeup. The concept is described at the level of solution architecture, user experience, and method. Proposal-specific partner details, commercial terms, and implementation-sensitive material are intentionally omitted.
+**Status:** The concept is described at the level of solution architecture, user experience, and method. Implementation details and IP are omitted.
 
 ## Concept
 
