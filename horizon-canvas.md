@@ -3,7 +3,7 @@
 ## AI x VR-Augmented Foresight For Strategic Decision-Making
 
 **Type:** Solution concept  
-**Status:** The concept is described at the level of solution architecture, user experience, and method. Implementation details and IP are omitted.
+**Status:** The concept is described at the level of solution architecture, user experience, and method. Implementation details and IP-shaped details are omitted.
 
 ## Concept
 
@@ -11,13 +11,15 @@ Horizon Canvas is an AI x VR-augmented foresight concept for executive decision-
 
 The idea is simple: strategic scenarios are more useful when leadership teams can experience them and test choices inside them, not only read about them. Horizon Canvas turns scenario work into an immersive decision environment where executives explore alternative futures, identify strategic gaps, test decisions across multiple scenarios, and use AI-supported impact analysis to translate foresight into action.
 
-I developed the concept as a response to a recurring limitation in foresight work: high-quality scenarios can still fail to change executive decisions if they remain abstract. The issue is rarely that the scenario logic is weak. The issue is that decision-makers often do not engage deeply enough with the implications to adapt strategy.
+The concept was developed to tackle a recurring limitation in foresight work: high-quality scenarios can still fail to change executive decisions, due to abstract nature and difficulty visualizing or deeply engaging with the text-based material. The impact of foresight (and by extension, of any conceptual future-oriented material, including in parts, strategy) is often directly limited, or even tied to the stakeholder engagement with the primary material. The impact of foresight can then, in part, be measured by a combination of it's strategic relevance x the primary stakeholder engagement. 
 
-Horizon Canvas addresses that gap by combining:
+Excellent foresight that manages to directly address and explore the company's strategic environments' primary uncertainties or opportunities, but doesnt find strong stakeholder engagement largely lacks any impact. The same goes for most other strategic analysis or material that requires participants, such as C-suite or other relevant decision-maker, to imagine any type of future or immediate impacts. The engagement-gap can often play a not-insignificant part in the success of any type of future-oriented strategic engagement.  
 
-- **Foresight methodology** for scenario logic, uncertainty, implications, and strategic adaptation.
-- **Generative AI** for scenario intelligence, strategic dimension mapping, gap analysis, and impact analysis.
-- **VR environments** for immersion, spatial memory, and experiential engagement.
+Horizon Canvas is an adapted take on answering that problem in the context of foresight, presenting a ready solution concept. It borrows conceptually from other fields' solutions on tackling similiar problems, such as decision-simulations and wargames.
+
+- **Foresight methodology** for scenario logic, uncertainty, implications, and strategic adaptation (although the concept is not tied to one established methodology and can be adapted).
+- **Gen AI** for strategic analysis: scenario intelligence, strategic dimension mapping, gap analysis, and impact analysis.
+- **Constructed VR environments** for immersion, spatial memory, and experiential engagement.
 - **Facilitated decision design** to connect the experience back to concrete strategic choices.
 
 ## Concept Visual
@@ -28,43 +30,40 @@ Horizon Canvas addresses that gap by combining:
 
 Traditional foresight often breaks down at the last mile between analysis and action.
 
-Scenario projects can produce strong narratives, robust uncertainty analysis, and useful implications, but executive teams may still struggle to internalize what those futures require. Reports and slide decks are efficient ways to communicate information, but they are weaker at creating lived engagement with a future context.
+Scenario projects produce strong narratives, robust uncertainty analysis, and useful implications, but executive teams may still struggle to internalize what those futures represent or require. Reports and slide decks are time-efficient ways to present information, but they ensuring the information is received at full depth, often leading to weaker engagement with a future context.
 
 Common failure modes:
 
-- Scenarios are consumed passively.
-- Decision-makers engage with only part of the material.
-- Abstract future conditions do not translate into current choices.
+- Scenarios are consumed superficially and passively.
+- Decision-makers engage with only partial, or limited understanding of the material.
+- Abstract future conditions fail to translate into current choices or inform decisions.
 - Strategic implications remain interesting but operationally distant.
-- Leadership teams do not systematically test decisions across futures.
+- Leadership teams do not systematically engage to test decisions across futures.
 - Existing strategy remains anchored in the present because the alternative futures do not feel concrete enough.
 
-The core problem is not scenario generation. It is decision engagement.
+The core problem is often decision engagement, more so than quality of foresight.
 
 ## Solution Shape
 
-Horizon Canvas converts scenario work into an immersive decision studio.
+Horizon Canvas converts scenario work into an immersive experiential environment and simulation.
 
-Instead of treating scenarios as static outputs, the concept turns them into interactive environments. A leadership team enters a facilitated scenario space, experiences the conditions of alternative futures, prioritizes strategic dimensions, and tests decisions against those futures.
+Rather than treat scenarios as static outputs, the goal is to turn them into interactive environments and spaces. A leadership team enters a facilitated scenario space, experiences the conditions of alternative futures, prioritizes strategic dimensions, and tests decisions against those futures.
 
 The experience is structured around a clear decision flow:
 
 1. **Guided orientation**  
-   The team enters the experience with minimal technical friction. The setup is facilitator-managed so executives can focus on strategy rather than hardware.
+   The team enters the experience with minimal technical friction, optimized across a validated set of hardware. The setup is facilitator-managed so executives can focus on strategy rather than hardware. Significant attention is paid to the UX-design and experience.
 
 2. **Scenario world exploration**  
-   Each scenario becomes a spatial environment. The team encounters signals, constraints, stakeholder shifts, market changes, regulation, capability pressures, and emerging opportunities inside the world.
+   Each scenario becomes a spatial environment, divided into a scenario gallery, and keystone moments, representing individual scenes playing out foundational moments from each scenario. The participants experience the scenarios through gallery-like visual spaces, allowing exploration across spatially constructed locations, as well as experiencing lived moments from the scenarios. 
 
-3. **Strategic dimension prioritization**  
-   The team identifies which parts of the strategy are most exposed: business model, market position, capability portfolio, resource focus, operating model, resilience, ecosystem, or investment priorities.
+3. **Strategy lab**  
+   Strategic choices are tested across multiple futures in a VRxGenAI decision-simulation, in a constructed space. The strategy studio functions as both a way to present the information across multiple dimensions, as well as a space to test those decisions in.   
 
-4. **Decision testing**  
-   Candidate strategic choices are tested across multiple futures. The goal is to reveal which choices are robust, which are scenario-dependent, and which create new vulnerabilities.
-
-5. **AI-supported impact analysis**  
+4. **AI-supported impact analysis**  
    Generative AI structures the implications: positive and negative consequences, assumption dependencies, second-order effects, cross-scenario vulnerabilities, and adaptation options.
 
-6. **Strategic adaptation**  
+5. **Strategic adaptation**  
    The session produces decision inputs: robust moves, contingent moves, warning indicators, capability gaps, and next-step actions.
 
 ## User Experience Journey
@@ -130,22 +129,19 @@ The experience is designed as a facilitated executive intervention. The technolo
 
 AI and VR solve different parts of the foresight engagement problem.
 
-AI makes the scenario system adaptive:
+AI makes the scenario system adaptive and feasible to construct as part of a regular engagement:
 
-- It structures scenario worlds.
-- It connects future conditions to strategic dimensions.
-- It helps identify gaps and implications.
-- It supports rapid iteration.
-- It compares decisions across futures.
+- Agentic development helps structure the worlds, create assets and construct the details of the world
+- Voice-based AI enables hands-free engagement as part of the experience
+- AI enables the simulation and rapid strategic analysis of the futures and the decision-makers actions, bridging the gap between analysis and feedback. The feedback loop for decisions' impacts drops from weeks to minutes
 
 VR makes the scenario system experiential:
 
-- It turns abstract futures into places.
-- It increases attention and recall.
-- It gives leadership teams a shared environment for discussing uncertainty.
-- It makes trade-offs more concrete.
+- VR allows us to turns abstract futures into spatial locations and places.
+- The experiential nature enables brains' spatial memory and procession - we remember spaces we've visited in significantly more detail than things we've read. 
+- It gives leadership teams a shared environment and concretization of the future for discussing uncertainty.
 
-Used separately, either technology is incomplete. VR without AI risks becoming a static exhibition. AI without immersive design risks remaining another text-based analysis layer. Together, they create a stronger bridge from foresight to decision-making.
+The combination of two layers allows the interactivity that would otherwise be too expensive to craft. VR-based representation alone would lack the feedback loops and require handcrafting most paths, introducing prohibitive development costs and cycles. AI-based scenario or strategic analysis without AI would lose the foundation of the engagement constructed by the VR-spaces, risking the analysis remaining as text-based analysis layer. While both solutions are fully able to stand alone, and dont necessarily need to be entangled (apart from the AI-native development and iteration methods used in the construction and adaption of the worlds), the combination of the two is greater than the sum of it's parts.
 
 ## Implementation Path
 
@@ -182,11 +178,11 @@ Scenario work should become easier to experience, remember, and discuss. The poi
 
 ### Keep The Method In Charge
 
-The foresight method remains the backbone. AI and VR are used to strengthen the method, not replace it.
+The foresight methodoly remains the backbone. AI and VR are used to strengthen the method, not replace it.
 
 ### Minimize Technical Friction
 
-The experience should be facilitator-managed and executive-ready. Users should not have to configure technology or learn complex controls.
+The experience should be facilitator-managed and user-oriented, with an eye to accessibility. Users should not have to configure technology or learn complex controls. The technological experience needs to be intuitive and widely accessible.
 
 ### Ground AI In Scenario Logic
 
@@ -211,7 +207,7 @@ Horizon Canvas fits situations where organizations need to make strategic decisi
 
 Horizon Canvas shows one direction for the next generation of foresight practice: moving from scenario communication toward scenario experience and decision simulation.
 
-The concept demonstrates that AI can be used not only to generate more foresight content, but to make scenarios more adaptive, organization-specific, and decision-relevant. It also shows how immersive technologies can be used in a serious strategic context when they are tied to a clear method rather than treated as novelty.
+The concept demonstrates that AI can be used not only to generate foresight content, but to make scenarios more adaptive, organization-specific, and decision-relevant. It also shows how immersive technologies can be used in a serious strategic context when they are tied to a clear method rather than treated as novelty.
 
 The underlying idea is broader than VR. Strategic foresight needs better interfaces for decision-making. Horizon Canvas is one version of that interface: a decision studio where leadership teams can inhabit futures, test choices, and leave with clearer strategic commitments.
 
